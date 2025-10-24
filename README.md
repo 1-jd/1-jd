@@ -1,4 +1,4 @@
-## Hi there 👋
+## Eaglercraft 1.12.2
 
 <!--
 **1-jd/1-jd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
